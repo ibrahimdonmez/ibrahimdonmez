@@ -2,9 +2,23 @@
 
 <br/>
 
-I'm İbrahim, Full-Stack developer from <img src="https://image.flaticon.com/icons/svg/940/940164.svg" width="12" height="22" /> **Ankara, Turkey.**
+I'm İbrahim, Full-Stack developer from **Ankara, Turkey.** <img src="https://image.flaticon.com/icons/svg/940/940164.svg" width="12" height="22" /> 
 
 I'm Currently working **@FordOtosan** <img src="https://intesasoft.com/wp-content/uploads/2018/11/ford-otosan-logo.png" width="5%" height="5%" />
+
+<br/>
+
+---
+
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="ibrahim-dönmez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="6ibrahimm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://instagram.com/6ibrahimm
+[linkedin]: https://www.linkedin.com/in/ibrahim-dönmez-821996168/
 
 <br/>
 
@@ -28,18 +42,5 @@ I'm Currently working **@FordOtosan** <img src="https://intesasoft.com/wp-conten
 ![C++](https://img.shields.io/badge/C++-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
 ![Python](https://img.shields.io/badge/Python-%E2%81%AD%E2%81%AD%E2%81%AD-yellow)
 
-<br/>
-
----
-
-<br/>
-
-### Connect with me:
-
-[<img align="left" alt="ibrahim-dönmez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="6ibrahimm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://instagram.com/6ibrahimm
-[linkedin]: https://www.linkedin.com/in/ibrahim-dönmez-821996168/
 
 

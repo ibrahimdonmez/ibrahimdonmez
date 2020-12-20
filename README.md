@@ -1,6 +1,6 @@
-I'm İbrahim, Full-Stack developer from  ** Ankara, Turkey. **
+I'm İbrahim, Full-Stack developer from 
 
-Currently working @FordOtosan
+I'm Currently working @FordOtosan
 
 Here are some ideas to get you started:
 

@@ -1,6 +1,6 @@
-I'm İbrahim, Full-Stack developer from 
+I'm İbrahim, Full-Stack developer from **![Bu alt etiketine gelecek içerik](https://camo.githubusercontent.com/c94bdb36db9e4ca4a748e615bd9aca354e2b11e6adab863559bb72aa3de13cd6/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3934302f3934303136342e737667 "")Ankara, Turkey.**
 
-I'm Currently working @FordOtosan
+I'm Currently working **@FordOtosan**
 
 Here are some ideas to get you started:
 

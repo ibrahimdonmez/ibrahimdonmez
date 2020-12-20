@@ -1,16 +1,16 @@
 # Welcome
 
 <br/>
-<br/>
 
 I'm İbrahim, Full-Stack developer from <img src="https://image.flaticon.com/icons/svg/940/940164.svg" width="12" height="22" /> **Ankara, Turkey.**
 
 I'm Currently working **@FordOtosan** <img src="https://intesasoft.com/wp-content/uploads/2018/11/ford-otosan-logo.png" width="5%" height="5%" />
 
 <br/>
-<br/>
 
 ---
+
+<br/>
 
 ### Languages and Tools:
 
@@ -28,9 +28,10 @@ I'm Currently working **@FordOtosan** <img src="https://intesasoft.com/wp-conten
 ![Python](https://img.shields.io/badge/Python-%E2%81%AD%E2%81%AD%E2%81%AD-yellow)
 
 <br/>
-<br/>
 
 ---
+
+<br/>
 
 ### Connect with me:
 

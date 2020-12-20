@@ -2,7 +2,7 @@
 
 I'm İbrahim, Full-Stack developer from <img src="https://image.flaticon.com/icons/svg/940/940164.svg" width="12" height="22" /> **Ankara, Turkey.**
 
-I'm Currently working **@FordOtosan** <img src="https://intesasoft.com/wp-content/uploads/2018/11/ford-otosan-logo.png" width="19" height="15" />
+I'm Currently working **@FordOtosan** <img src="https://intesasoft.com/wp-content/uploads/2018/11/ford-otosan-logo.png" width="25" height="15" />
 
 <br/>
 <br/>
